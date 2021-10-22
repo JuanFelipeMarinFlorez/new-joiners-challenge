@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyJd0mUuLN0gLVXS31ERkdcwgl9BVonyI4jxNuEfs6dGbBIzSh5L3GAPHmymy3W9xEEnra+MfM1c8r4rJUxZjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmarinflorez\\OneDrive - ENDAVA\\Desktop\\Challenges\\new Joiners\\Code\\new-joiners-challenge\\task-persistence-service\\TaskPersistenceService\\TaskPersistenceService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmarinflorez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jmarinflorez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jmarinflorez\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\jmarinflorez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\jmarinflorez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\jmarinflorez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

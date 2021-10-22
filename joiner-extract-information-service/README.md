@@ -1,0 +1,2 @@
+# Joiner extract information service
+This service provides the functionality of take a .pdf or .Docs that contein the new joiner information, and substract all the data and put it into a message broker (RabbitMQ)
